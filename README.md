@@ -1,0 +1,1 @@
+This portfolio website, built with HTML, CSS, and JavaScript, serves as a platform to introduce myself and my passion for web development.  Explore curated projects showcasing my front-end development skills, and delve deeper into my background through the "About" section.
